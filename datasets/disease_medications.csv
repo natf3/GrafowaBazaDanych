@@ -1,0 +1,26 @@
+Disease;Name1;Type1;Alcohol1;Name2;Type2;Alcohol2
+Acne;doxycycline;prescription only;interacts with alcohol;minocycline;prescription only;no effect
+AIDS;Truvada;prescription only;no effect;Biktarvy;prescription only;no effect
+Allergy;hydroxyzine;prescription only;interacts with alcohol;levocetirizine;prescription only/over the counter;interacts with alcohol
+Bronchial Asthma;montelukast;prescription only;no effect;Singulair;prescription only;no effect
+Chicken pox;acyclovir;prescription only;no effect;valacyclovir;prescription only;no effect
+Common Cold;Benadryl;prescription only/over the counter;interacts with alcohol;diphenhydramine;prescription only/over the counter;interacts with alcohol
+Dengue;acetaminophen;prescription only/over the counter;interacts with alcohol;;-;-
+Diabetes;metformin;prescription only;interacts with alcohol;Victoza;prescription only;interacts with alcohol
+Fungal infection;fluconazole;prescription only;no effect;;-;-
+GERD;omeprazole;prescription only/over the counter;no effect;pantoprazole;prescription only;no effect
+hepatitis A;immune globulin intramuscular;prescription only;no effect;GamaSTAN S / D;prescription only;no effect
+Hepatitis B;Baraclude;prescription only;no effect;Viread;prescription only;no effect
+Hepatitis C;Harvoni;prescription only;no effect;Sovaldi;prescription only;no effect
+Hypertension;lisinopril;prescription only;no effect;amlodipine;prescription only;no effect
+Hyperthyroidism;methimazole;prescription only;no effect;Tapazole;prescription only;no effect
+Hypothyroidism;levothyroxine;prescription only;no effect;Synthroid;prescription only;no effect
+Impetigo;mupirocin;prescription only;no effect;Altabax;prescription only;no effect
+Jaundice;phenobarbital;prescription only;interacts with alcohol;;-;no effect
+Malaria;artemether / lumefantrine;prescription only;no effect;Coartem;prescription only;no effect
+Migraine;sumatriptan;prescription only;no effect;Imitrex;prescription only;no effect
+Osteoarthritis;meloxicam;prescription only;interacts with alcohol;Celebrex;prescription only;no effect
+Peptic ulcer diseae;pantoprazole;prescription only;no effect;famotidine;prescription only/over the counter;no effect
+Psoriasis;clobetasol;prescription only;no effect;methotrexate;prescription only;interacts with alcohol
+Urinary tract infection;ciprofloxacin;prescription only;no effect;nitrofurantoin;prescription only;no effect
+Varicose veins;polidocanol;prescription only;no effect;Sotradecol;prescription only;no effect
