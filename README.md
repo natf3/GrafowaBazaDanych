@@ -32,7 +32,7 @@ https://my.clevelandclinic.org/health.
   
 Liczba węzłów: 334  
   
-#### Relacje  
+### Relacje  
   
 • (Disease) - [can_be_prevented_with] -> (Prevention)  
 • (Disease) - [can_be_treated_with] -> (Medication)  
